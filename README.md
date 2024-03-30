@@ -21,7 +21,7 @@ These instructions will get your project up and running on your local machine fo
 Clone this repository to your local machine.
 
 ```bash
-git clone https://yourprojectrepository.com/project.git
+git clone https://github.com/arifur9993/rtb-bid-request.git
 cd project
 ```
 
